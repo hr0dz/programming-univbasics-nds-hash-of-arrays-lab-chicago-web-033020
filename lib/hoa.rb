@@ -16,6 +16,8 @@ hash[:chipmunks] << "Dave"
 hash[:third_earthers] << "Snarf"
 hash[:jetsons] << "Astro"
 
+hash
+
   # Write your implementation here
   # Should return the array of the 'show' argument
 end
