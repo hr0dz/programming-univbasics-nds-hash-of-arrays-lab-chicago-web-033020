@@ -13,8 +13,8 @@ def add_character(show, name)
 }
 
 hash[:chipmunks] << "Dave"
-
-:chipmunks
+hash[:third_earthers] << "Snarf"
+hash[:jetsons] << "Astro"
 
   # Write your implementation here
   # Should return the array of the 'show' argument
