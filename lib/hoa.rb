@@ -14,8 +14,8 @@ def add_character(show, name)
 
 hash[show] << name
 
-hash
-  
+show
+
   # Write your implementation here
   # Should return the array of the 'show' argument
 end
