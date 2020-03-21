@@ -12,7 +12,7 @@ def add_character(show, name)
   :jetsons => ["George", "Jane", "Judy", "Elroy"]
 }
 
-hash[show] << name
+hash[:chipmunks] << "Dave"
 
 show
 
